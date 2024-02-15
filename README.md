@@ -6,6 +6,8 @@ Server Sent Event를 채팅을 예시로 구현했습니다.
 
 ## 실행결과
 
+<img src="https://github.com/rlaclgh/miniproject_server_sent_event/assets/46914232/c6fa6ccf-3aa0-44ea-9eb0-f36f16879972" width="450px"></img>
+
 ## 실행방법
 
 ```
