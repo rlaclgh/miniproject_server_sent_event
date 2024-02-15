@@ -1,19 +1,10 @@
 ## 설명
 
-해당 레포는 앞으로 진행할 기능 단위 프로젝트의 boilerplate 입니다.
+Server Sent Event를 채팅을 예시로 구현했습니다.  
+1.페이지 진입시 서버에 연결 요청  
+2.채팅 입력시 임의의 단어리스트를 stream 으로 제공
 
 ## 실행결과
-
-http://127.0.0.1:3000
-
-1. pc
-   <br/>
-   <img src="https://github.com/rlaclgh/boilerplate/assets/46914232/a423e314-5957-4d7c-948c-a738ef5c668a" width="450px" ></img>
-   <br/>
-2. mobile
-   <br/>
-   <img src="https://github.com/rlaclgh/boilerplate/assets/46914232/7287a912-6a54-473c-9ed0-33d243ad9794" width="450px" ></img>
-   <br/>
 
 ## 실행방법
 
